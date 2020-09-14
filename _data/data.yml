@@ -59,24 +59,23 @@ education:
       university: Universitat Oberta de Catalunya
       time: 2019 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: Comptabilitat i Fiscalitat
+        El grau d'Administració i Direcció d'Empreses (ADE) té una 
+        orientació generalista i multidisciplinària, amb una vocació eminentment 
+        professionalitzadora. El grau d'ADE proporciona un profund coneixement de
+        les diferents àrees de valor de l'empresa (i especialment de comptabilitat, 
+        finances i fiscalitat), i ofereix, a més, la possibilitat d'aprofundir en 
+        les competències relacionades amb la direcció general de l'empresa, 
+        la gestió de la globalització dels mercats i les empreses, i la
+        innovació empresarial. En aquest sentit capacita per a l'exercici de 
+        la professió d'economista, regulada en el Decret de la presidència 871/77,
+        Estatut professional de l'economista.
+   
+    - degree: Menció Comptabilitat i Fiscalitat
       university: Universitat Oberta de Catalunya
       time: 2020 
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: Gestió, control i avaluació dels sistemes d'informació comptable, 
+      i planificació i supervisió dels sistemes fiscals de l'empresa.
+
 experiences:
     - role: Lead Developer
       time: 
