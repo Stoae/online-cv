@@ -73,46 +73,46 @@ education:
     - degree: Menció Comptabilitat i Fiscalitat
       university: Universitat Oberta de Catalunya
       time: 2020 -2020
-      details: Gestió, control i avaluació dels sistemes d'informació comptable, i planificació i supervisió dels sistemes fiscals de l'empresa.
+      details: |
+        Gestió, control i avaluació dels sistemes d'informació comptable, 
+        i planificació i supervisió dels sistemes fiscals de l'empresa.
 
 experiences:
-    - role: Lead Developer
+    - role: Assesor extern
       time: 
-      company: Startup Hubs, San Francisco
+      company: SAERSAK, S. L.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+     Assesorament per l'emprendiment i posada en marxa de l'empresa. 
+     Realització de recolzament de tasques d'administració, comptabilitat 
+     i laboral; estudis de mercat i noves oportunitats de negoci.
+     
+    - role: Gestor de clients
       time: 
-      company: Google, London
+      company: Endesa
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        Negociació, gestió, personalització i adequació  dels serveis 
+        a les necessitats del grans clients i la seva complexitat.
+
+    - role: Cap d'administració
       time: 
-      company: Amazon, London
+      company: Club Gran Via Mar, S. L.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Modernització de les estructures i procesos d'administració
+        transformant la gestió del Club de manera eficient.
+         
+     - role: Comptable
+      time: 
+      company: Duomar Assessors, S. L.
+      details: |
+        Realització del tot cicle comptable de les empreses i assesorament
+        a la presa de decisions.
+        
+      - role: Comptable i Administració
+       time: 
+       company: GEMAP, S. L.
+       details: |
+        Transformació digital, automatització de procesos i realització 
+        de comptabilitat de empreses clients.
 projects:
     title: Projects
     intro: >
