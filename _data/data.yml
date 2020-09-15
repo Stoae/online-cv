@@ -90,29 +90,29 @@ experiences:
       time: 
       company: Endesa
       details: |
-        Negociació, gestió, personalització i adequació  dels serveis 
-        a les necessitats del grans clients i la seva complexitat.
+     Negociació, gestió, personalització i adequació  dels serveis 
+     a les necessitats del grans clients i la seva complexitat.
 
     - role: Cap d'administració
       time: 
       company: Club Gran Via Mar, S. L.
       details: |
-        Modernització de les estructures i procesos d'administració
-        transformant la gestió del Club de manera eficient.
+     Modernització de les estructures i procesos d'administració
+     transformant la gestió del Club de manera eficient.
          
      - role: Comptable
       time: 
       company: Duomar Assessors, S. L.
       details: |
-        Realització del tot cicle comptable de les empreses i assesorament
-        a la presa de decisions.
+     Realització del tot cicle comptable de les empreses i assesorament
+     a la presa de decisions.
         
       - role: Comptable i Administració
        time: 
        company: GEMAP, S. L.
        details: |
-        Transformació digital, automatització de procesos i realització 
-        de comptabilitat de empreses clients.
+      Transformació digital, automatització de procesos i realització 
+      de comptabilitat de empreses clients.
 projects:
     title: Projects
     intro: >
