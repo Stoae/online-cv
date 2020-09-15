@@ -100,14 +100,14 @@ experiences:
         Modernització de les estructures i procesos d'administració
         transformant la gestió del Club de manera eficient.
          
-     - role: Comptable
+    - role: Comptable
       time: 
       company: Duomar Assessors, S. L.
       details: |
         Realització del tot cicle comptable de les empreses i assesorament
         a la presa de decisions.
         
-      - role: Comptable i Administració
+    - role: Comptable i Administració
        time: 
        company: GEMAP, S. L.
        details: |
